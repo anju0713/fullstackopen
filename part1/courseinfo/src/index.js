@@ -33,7 +33,7 @@ const Total = (props) => {
 
 const App = () => {
   const course = {
-    name: 'Mern Stack application development',
+    name: 'Half Stack application development',
     parts: [
       {
         name: 'Fundamentals of React',
